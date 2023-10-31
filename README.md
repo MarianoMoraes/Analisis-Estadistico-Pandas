@@ -1,4 +1,4 @@
-# Stadistic Analisis Pandas
+# Statical Analisis Pandas
 
 - Exercise 1
   
